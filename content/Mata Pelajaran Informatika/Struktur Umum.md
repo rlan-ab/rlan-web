@@ -1,6 +1,6 @@
 
 
-## Kelas X
+## Kelas X 
 
 1. **Data, Informasi, dan Validasinya** 
 	1. Pencarian dengan Banyak Variabel 
